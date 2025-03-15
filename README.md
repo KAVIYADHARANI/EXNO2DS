@@ -40,7 +40,7 @@ dt=pd.read_csv("/content/titanic_dataset.csv")
 ```
 dt
 ```
-<img width="960" alt="D1" src="https://github.com/user-attachments/assets/fffa517e-9809-4eec-9375-5a059dfcb31d" />
+<img width="775" alt="d21" src="https://github.com/user-attachments/assets/9b158723-8628-4afb-960f-719269c88c0b" />
 
 ```
 dt.info()
